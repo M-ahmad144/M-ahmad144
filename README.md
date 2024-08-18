@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Muhammad Ahmad
 
-### MERN Stack Developer | Full-Stack Web Applications Expert
-
-I specialize in creating and optimizing cutting-edge full-stack web applications using the MERN stack—MongoDB, Express.js, React, and Node.js. Driven by a passion for technology, I build robust solutions that push the boundaries of modern web development.
+### MERN Stack Developer | Passionate MERN Stack Developer with a strong background in building and maintaining full-stack web applications using MongoDB, Express.js, React, and Node.js.
 
 ---
 
