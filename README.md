@@ -7,12 +7,12 @@ Passionate and skilled in building and maintaining dynamic web applications usin
 ---
 
 
----
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=M-ahmad144&label=Profile%20Views&color=4&pretty=false" />
 </a>
----
+
 
 ### 🛠 Technologies & Tools:
 
