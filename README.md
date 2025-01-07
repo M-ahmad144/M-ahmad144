@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=ahmadgithub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">A Passionate Full-Stack Developer 🚀 | MERN Stack Enthusiast 💻 | Data Science & AI Learner 🤖</h3>
+<h3 align="center">A Passionate Full-Stack Developer 🚀 | Data Science & AI Learner 🤖</h3>
 
 ---
 
