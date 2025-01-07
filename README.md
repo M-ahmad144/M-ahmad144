@@ -1,46 +1,85 @@
-# 👋 Hi, I'm Muhammad Ahmad
+[![](https://visitcount.itsvg.in/api?id=ahmadgithub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### MERN Stack Developer | Expert in Web Application Development
-
-Passionate and skilled in building and maintaining dynamic web applications using the MERN stack—MongoDB, Express.js, React, and Node.js. Committed to leveraging modern technologies to deliver innovative and efficient solutions.
-
----
-
-
-
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=M-ahmad144&label=Profile%20Views&color=4&pretty=false" />
-</a>
-
-
-### 🛠 Technologies & Tools:
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-</p>
+<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h3 align="center">A Passionate Full-Stack Developer 🚀 | MERN Stack Enthusiast 💻 | Data Science & AI Learner 🤖</h3>
 
 ---
 
-### 📈 GitHub Stats:
+## 💫 About Me:
+👋 Hi there! I'm **Ahmad**, a **Full-Stack Developer** 🚀 and **AI Enthusiast** 🤖 with a passion for building scalable, high-performance web applications and uncovering insights through **data science**.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-ahmad144&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahmad144" alt="Streak Stats" />
-</p>
+💻 **What I Do:**  
+- 🔨 Crafting modern, responsive, and interactive web applications using the **MERN stack**.  
+- 🤖 Exploring the exciting world of **Artificial Intelligence** and **Machine Learning** to turn data into powerful insights.  
+- ⚙️ Creating **clean, maintainable, and scalable code** that makes an impact.  
+
+📈 **What Drives Me:**  
+- 🌱 Constantly learning and implementing new technologies in **web development** and **AI solutions**.  
+- 💡 Passionate about **problem-solving**, **data-driven decision-making**, and **automation**.  
+- ⚡ Fun fact: **I turn coffee into code ☕ and data into predictions 📊!**  
+
+📫 **How to reach me:** **muhammadahmadmughal@gmail.com**  
+
+---
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/M-ahmad144)  
+ 
+
+---
+
+## 💻 Tech Stack:
+
+### **Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
+
+### **Backend:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
+
+### **Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
+
+### **Programming Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+
+### **AI, ML & Data Science:**
+- **Libraries/Frameworks:** TensorFlow, Scikit-learn, PyTorch, OpenCV, Matplotlib  
+- **Tools:** Jupyter, Google Colab, Kaggle  
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadgithub&theme=tokyonight&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadgithub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=ahmadgithub&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📫 Contact Me:
+- 📧 Email: **muhammadahmadmughal@gmail.com**
+  <!-- - 🌐 Portfolio: [ahmadportfolio.com](https://ahmadportfolio.com)   -->
+
+
+---
+
