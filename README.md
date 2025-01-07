@@ -24,11 +24,14 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/M-ahmad144)  
- 
+  <a href="https://linkedin.com/in/ahmad-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/M-ahmad144" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
----
+
 
 ## 💻 Tech Stack:
 
