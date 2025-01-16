@@ -84,21 +84,9 @@
 </p>
 
 
-## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ahmad144&show_icons=true&locale=en&layout=compact" alt="M-ahmad144" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ahmad144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ahmadgithub&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 📫 Contact Me:
-- 📧 Email: **muhammadahmadmughal@gmail.com**
-  <!-- - 🌐 Portfolio: [ahmadportfolio.com](https://ahmadportfolio.com)   -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-ahmad144&show_icons=true&locale=en" alt="M-ahmad144" /></p>
 
 
 ---
