@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me:
-Hello there! 👋 I'm **Ahmad**, a **Full-Stack Developer** 🌐 specializing in the **MERN stack** and a passionate explorer of the **AI & Data Science** domain. I thrive on solving complex challenges by building scalable, high-performance applications and leveraging data to uncover insights and drive intelligent decisions.
+ 👋 I'm **Ahmad**, a **Full-Stack Developer** 🌐 specializing in the **MERN stack** and a passionate explorer of the **AI & Data Science** domain. I thrive on solving complex challenges by building scalable, high-performance applications and leveraging data to uncover insights and drive intelligent decisions.
 
 ### 💻 What I Do:
 - 🔨 Develop modern, responsive, and interactive web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
