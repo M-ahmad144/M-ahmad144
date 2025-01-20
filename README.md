@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me:
- 👋 I'm **Ahmad**, a **Full-Stack Developer** 🌐 specializing in the **MERN stack** and a passionate explorer of the **AI & Data Science** domain. I thrive on solving complex challenges by building scalable, high-performance applications and leveraging data to uncover insights and drive intelligent decisions.
+👋 I'm **Ahmad**, a **Full-Stack Developer** 🌐 specializing in the **MERN stack** and a passionate explorer of the **AI & Data Science** domain. I thrive on solving complex challenges by building scalable, high-performance applications and leveraging data to uncover insights and drive intelligent decisions.
 
 ### 💻 What I Do:
 - 🔨 Develop modern, responsive, and interactive web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
@@ -73,12 +73,25 @@ Feel free to reach out via email: **muhammadahmadmughal@gmail.com**
   <img src="https://img.shields.io/badge/Kaggle-%23020FBA.svg?style=flat&logo=kaggle&logoColor=white" />
 </p>
 
+### **Tools & Technologies:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-%230A0F3D.svg?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%2300C7B7.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-%23000000.svg?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ahmad144&show_icons=true&locale=en&layout=compact" alt="M-ahmad144" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-ahmad144&show_icons=true&locale=en" alt="M-ahmad144" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-ahmad144&show_icons=true&locale=en" alt="M-ahmad144" /></p>
 
 ---
 
@@ -109,7 +122,7 @@ Feel free to reach out via email: **muhammadahmadmughal@gmail.com**
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=M-ahmad144&theme=radical&no-frame=false&no-bg=true&margin-w=2)
+  <img src="https://github-profile-trophy.vercel.app/?username=M-ahmad144&theme=radical&no-frame=false&no-bg=true&margin-w=2" alt="trophy" />
 </div>
 
 ---
