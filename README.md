@@ -77,7 +77,7 @@ Feel free to reach out via email: **muhammadahmadmughal@gmail.com**
 
 ## 📊 GitHub Stats:
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ahmad144&show_icons=true&locale=en&layout=compact" alt="M-ahmad144" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ahmad144&show_icons=true&locale=en&layout=compact" alt="M-ahmad144" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-ahmad144&show_icons=true&locale=en" alt="M-ahmad144" /></p>
 
 ---
