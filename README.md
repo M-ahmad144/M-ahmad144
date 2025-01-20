@@ -1,37 +1,27 @@
 [![](https://visitcount.itsvg.in/api?id=ahmadgithub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI & Data Science Enthusiast 🤖 | Code. Create. Innovate. 🔥</h3>
+# Hi 👋, I'm Ahmad
+### 🚀 Full-Stack Developer | AI & Data Science Enthusiast 🤖 | Innovator in Web & Machine Intelligence 🌟
 
 ---
 
 ## 💫 About Me:
-👋 Hi there! I'm **Ahmad**, a **Full-Stack Developer** 🚀 and **AI Enthusiast** 🤖 with a passion for building scalable, high-performance web applications and uncovering insights through **data science**.  
+Hello there! 👋 I'm **Ahmad**, a **Full-Stack Developer** 🌐 specializing in the **MERN stack** and a passionate explorer of the **AI & Data Science** domain. I thrive on solving complex challenges by building scalable, high-performance applications and leveraging data to uncover insights and drive intelligent decisions.
 
-💻 **What I Do:**  
-- 🔨 Crafting modern, responsive, and interactive web applications using the **MERN stack**.  
-- 🤖 Exploring the exciting world of **Artificial Intelligence** and **Machine Learning** to turn data into powerful insights.  
-- ⚙️ Creating **clean, maintainable, and scalable code** that makes an impact.  
+### 💻 What I Do:
+- 🔨 Develop modern, responsive, and interactive web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 🤖 Dive into the world of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to transform data into meaningful solutions.
+- ⚙️ Write **clean, efficient, and maintainable code** that scales with growing project demands.
 
-📈 **What Drives Me:**  
-- 🌱 Constantly learning and implementing new technologies in **web development** and **AI solutions**.  
-- 💡 Passionate about **problem-solving**, **data-driven decision-making**, and **automation**.  
-- ⚡ Fun fact: **I turn coffee into code ☕ and data into predictions 📊!**  
+### 📈 What Drives Me:
+- 🌱 A constant learner, always exploring new tools and technologies to improve my development skills and build better solutions.
+- 💡 Passionate about **problem-solving**, **data-driven decision-making**, and **automation**.
+- ⚡ Fun fact: **I turn coffee into code ☕ and data into predictions 📊!**
 
-📫 **How to reach me:** **muhammadahmadmughal@gmail.com**  
+### 📫 Get in Touch:
+Feel free to reach out via email: **muhammadahmadmughal@gmail.com**
 
 ---
-
-## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/ahmad-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/M-ahmad144" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 
 ## 💻 Tech Stack:
 
@@ -83,11 +73,43 @@
   <img src="https://img.shields.io/badge/Kaggle-%23020FBA.svg?style=flat&logo=kaggle&logoColor=white" />
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ahmad144&show_icons=true&locale=en&layout=compact" alt="M-ahmad144" /></p>
+## 📊 GitHub Stats:
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-ahmad144&show_icons=true&locale=en&layout=compact" alt="M-ahmad144" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-ahmad144&show_icons=true&locale=en" alt="M-ahmad144" /></p>
-
 
 ---
 
+## 🔗 Connect with Me:
+<div align="center">
+  <a href="https://github.com/M-ahmad144" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://gitlab.com/" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+  </a>
+  <a href="https://codepen.com/" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
+  </a>
+  <a href="https://stackoverflow.com/users/22128044/" target="_blank">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
+  </a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=M-ahmad144&theme=radical&no-frame=false&no-bg=true&margin-w=2)
+</div>
+
+---
