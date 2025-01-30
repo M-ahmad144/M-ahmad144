@@ -83,7 +83,7 @@ Feel free to reach out via email: **muhammadahmadmughal@gmail.com**
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-%23000000.svg?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  
 </p>
 
 ---
