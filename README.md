@@ -81,8 +81,7 @@ Feel free to reach out via email: **muhammadahmadmughal@gmail.com**
   <img src="https://img.shields.io/badge/Jira-%230A0F3D.svg?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%2300C7B7.svg?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-%23000000.svg?style=flat&logo=nginx&logoColor=white" />
+  
   
 </p>
 
