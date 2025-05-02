@@ -1,8 +1,6 @@
 # <div align="center">⚡ AHMAD | FULL-STACK DEVELOPER & AI ENTHUSIAST ⚡</div>
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=M-ahmad144&label=Profile%20views&color=0e75b6&style=flat)
   
   <a href="https://github.com/M-ahmad144" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="30"/>
@@ -118,18 +116,6 @@ const ahmad = {
 
 <br/>
 
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/M-ahmad144/project-one">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=M-ahmad144&repo=project-one&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/M-ahmad144/project-two">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=M-ahmad144&repo=project-two&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   
