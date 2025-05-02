@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Visitors](https://visitcount.itsvg.in/api?id=ahmadgithub&icon=0&color=0)
+  ![Visitors](https://visitcount.itsvg.in/api?id=M-ahmad144&icon=0&color=0)
   
   <a href="https://github.com/M-ahmad144" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="30"/>
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 <br/>
@@ -35,7 +35,7 @@ const ahmad = {
     programming: ["JavaScript", "Python", "C++", "Java", "C#"],
   },
   currentFocus: "Building scalable web applications with AI integration",
-  funFact: "I turn coffee into code and data into predictions!"
+  funFact: "I turn coffee into code and machine learning models into intelligence!"
 };
 ```
 
@@ -72,7 +72,7 @@ const ahmad = {
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 🤖 AI & Data Science
+### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -104,8 +104,8 @@ const ahmad = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-ahmad144&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-ahmad144&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=M-ahmad144&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=M-ahmad144&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%" /> 
 </div>
 
 <br/>
@@ -121,11 +121,11 @@ const ahmad = {
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/M-ahmad144">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-ahmad144&repo=your-project-name&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/M-ahmad144/project-one">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=M-ahmad144&repo=project-one&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/M-ahmad144">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-ahmad144&repo=another-project-name&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/M-ahmad144/project-two">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=M-ahmad144&repo=project-two&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -137,7 +137,12 @@ const ahmad = {
   
   <br/>
   
-  ![Snake animation](https://github.com/M-ahmad144/M-ahmad144/blob/output/github-contribution-grid-snake-dark.svg)
+  <!-- To set up this workflow, create .github/workflows/snake.yml -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
