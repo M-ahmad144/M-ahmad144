@@ -1,10 +1,8 @@
 # <div align="center">⚡ AHMAD | FULL-STACK DEVELOPER & AI ENTHUSIAST ⚡</div>
 
 <div align="center">
-  
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FM-ahmad144&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
-
+![Profile views](https://komarev.com/ghpvc/?username=M-ahmad144&label=Profile%20views&color=0e75b6&style=flat)
   
   <a href="https://github.com/M-ahmad144" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="30"/>
