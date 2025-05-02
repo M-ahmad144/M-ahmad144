@@ -123,12 +123,8 @@ const ahmad = {
   
   <br/>
   
-  <!-- To set up this workflow, create .github/workflows/snake.yml -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake.svg">
-  </picture>
+ <img alt="GitHub Snake" src="https://raw.githubusercontent.com/M-ahmad144/M-ahmad144/output/github-contribution-grid-snake.svg">
+
   
 </div>
 
