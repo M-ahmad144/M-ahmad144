@@ -118,9 +118,15 @@ const ahmad = {
 
 
 <div align="center">
-  
-  ### 💬 "Turning complex problems into elegant solutions, one line of code at a time."
-  
+  <h3>💬 "Turning complex problems into elegant solutions, one line of code at a time."</h3>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
   <br/>
   
 <picture>
