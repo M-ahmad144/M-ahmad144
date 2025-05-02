@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  ![Visitors](https://visitcount.itsvg.in/api?id=M-ahmad144&icon=0&color=0)
+ ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/M-ahmad144&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
   
   <a href="https://github.com/M-ahmad144" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="30"/>
