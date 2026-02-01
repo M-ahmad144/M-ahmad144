@@ -26,7 +26,7 @@
 const ahmad = {
   skills: {
     frontend: ["React", "Next.js", "Redux", "JavaScript", "TypeScript", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL"],
+    backend: ["Node.js", "Express.js", "Django REST Framework", "RESTful APIs", "GraphQL"],
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
     ai_ml: ["TensorFlow", "PyTorch", "scikit-learn", "OpenCV", "NLP", "Computer Vision"],
     devOps: ["Git", "GitHub Actions", "Docker", "AWS", "CI/CD"],
